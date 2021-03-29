@@ -104,5 +104,3 @@ print("\n")
 #-------------------------------------------------------------------------------
 
 print("Thanks For Playing The Quiz! I hope you enjoyed it!")
-# for num
-
